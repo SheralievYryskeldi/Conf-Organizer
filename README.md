@@ -1,4 +1,4 @@
-📅 ### Conference Schedule Organizer
+📅 Conference Schedule Organizer
 📌 Project Overview
 
 Welcome to Conference Schedule Organizer, a Java-based application I built to manage conference events with ease. This app allows you to:
